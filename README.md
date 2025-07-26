@@ -17,7 +17,7 @@ sudo apt-get install python3-venv python3-pip -y
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-pip install adafruit-circuitpython-ads1x15 adafruit-blinka
+pip install adafruit-circuitpython-ads1x15 adafruit-blinka lgpio
 ```
 ## 接线说明
 
