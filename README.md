@@ -3,6 +3,7 @@
 该仓库提供在树莓派 Pi5 上使用 ADS1115 模数转换器的示例代码和简单说明。
 
 示例设备图片：
+
 <img src="device.jpg" alt="Device" width="300" />
 
 ## 环境准备
